@@ -1,0 +1,31 @@
+### REST Client VsCode Plugin v0.25.1 Huachao Mao
+### Install that plugin and click "Send Request"
+### Add new post
+
+POST https://localhost:7095/api/posts HTTP/1.1
+Content-Type: application/json
+
+{
+    "content":"My sixth content"
+}
+
+### Get post by Post Id
+
+GET https://localhost:7095/api/posts/5 HTTP/1.1
+
+### Get all posts
+ 
+GET https://localhost:7095/api/posts HTTP/1.1
+
+### Update post content by Post Id
+
+Put https://localhost:7095/api/posts/2 HTTP/1.1
+Content-Type: application/json
+
+{
+    "content":"My second updated content"
+}
+
+### Delete a post by Post Id
+
+Delete https://localhost:7095/api/posts/6 HTTP/1.1

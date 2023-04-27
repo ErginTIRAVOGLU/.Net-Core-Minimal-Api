@@ -1,0 +1,15 @@
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\bin\Debug\net7.0\MinimalApi.Application.deps.json
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\bin\Debug\net7.0\MinimalApi.Application.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\bin\Debug\net7.0\MinimalApi.Application.pdb
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\bin\Debug\net7.0\MinimalApi.Domain.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\bin\Debug\net7.0\MinimalApi.Domain.pdb
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.csproj.AssemblyReference.cache
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.AssemblyInfoInputs.cache
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.AssemblyInfo.cs
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.csproj.CopyComplete
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\refint\MinimalApi.Application.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\MinimalApi.Application.pdb
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.Application\obj\Debug\net7.0\ref\MinimalApi.Application.dll

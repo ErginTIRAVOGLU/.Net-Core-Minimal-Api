@@ -1,0 +1,17 @@
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\bin\Debug\net7.0\MinimalApi.DataAccess.deps.json
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\bin\Debug\net7.0\MinimalApi.DataAccess.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\bin\Debug\net7.0\MinimalApi.DataAccess.pdb
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\bin\Debug\net7.0\MinimalApi.Application.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\bin\Debug\net7.0\MinimalApi.Domain.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\bin\Debug\net7.0\MinimalApi.Application.pdb
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\bin\Debug\net7.0\MinimalApi.Domain.pdb
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.AssemblyInfo.cs
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.csproj.CopyComplete
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\refint\MinimalApi.DataAccess.dll
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\MinimalApi.DataAccess.pdb
+C:\Users\Ergin\source\repos\MinimalApiCourseYt\MinimalApi.DataAccess\obj\Debug\net7.0\ref\MinimalApi.DataAccess.dll
